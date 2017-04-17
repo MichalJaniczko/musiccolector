@@ -227,3 +227,4 @@ Enter the number: """)
         elif menu == "0":
             print("\nSee you!\n")
             exit()
+# musiccolector
